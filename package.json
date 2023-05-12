@@ -1,0 +1,24 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "Booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUNAH10/Booking.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Muna Hassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MUNAH10/Booking/issues"
+  },
+  "homepage": "https://github.com/MUNAH10/Booking#readme"
+}
